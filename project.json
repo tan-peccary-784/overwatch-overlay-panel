@@ -1,0 +1,22 @@
+{
+  "name": "overwatch-overlay-panel",
+  "displayName": "Overwatch Overlay Panel",
+  "programType": "overlay-panel",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Panel placement",
+    "Display groups",
+    "Session notes"
+  ],
+  "topics": [
+    "overwatch-overlay-panel",
+    "overwatch-tools",
+    "overwatch-menu",
+    "overwatch-settings",
+    "overwatch-configs",
+    "overwatch-panel-placement",
+    "overwatch-display-groups"
+  ]
+}
